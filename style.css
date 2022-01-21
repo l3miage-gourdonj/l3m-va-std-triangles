@@ -1,0 +1,31 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+table {
+    border-collapse: collapse;
+    border: solid black 2px;
+    font-family: monospace;
+    font-size: xx-small;
+}
+
+.correct {
+    background: lightgreen;
+}
+
+.incorrect {
+    background: orangered;
+}
+
+td {
+    border: solid black 1px;
+}
+
+table pre {
+    margin: 0;
+}
+
+table.result td {
+    width: 1cm;
+    height: 1cm;
+}
